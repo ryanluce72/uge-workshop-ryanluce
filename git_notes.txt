@@ -1,0 +1,9 @@
+Commands for git -
+
+
+git status -tells you where you are and if up to date
+git add -moves file into staging area
+git commit -commits (with message)
+git log -shows history of commits within git
+git show -specify a specific file hash and you can see specifics of file at that time point
+git branch -creates a branch off
