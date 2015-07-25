@@ -1,6 +1,5 @@
-   44  Changes to the file
-
-   Lots of fun
+  The .git cdirectory is an example of a hidden file
+  The . and .. items in every directory on the file systems aren't seen
 
    rb pathtoenlightenment.rb
    45  ruby pathtoenlightenment.rb
