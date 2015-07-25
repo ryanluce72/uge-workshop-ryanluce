@@ -1,5 +1,6 @@
 Commands for git -
 
+****making some notes to compare***
 
 git status -tells you where you are and if up to date
 git add -moves file into staging area
