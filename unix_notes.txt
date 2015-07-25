@@ -1,4 +1,8 @@
-   44  rb pathtoenlightenment.rb
+   44  Changes to the file
+
+   Lots of fun
+
+   rb pathtoenlightenment.rb
    45  ruby pathtoenlightenment.rb
    46  ruby path_to_enlightenment.rb
    47  ruby path_to_enlightenment.rb
@@ -350,7 +354,7 @@
   393  git clone https://github.com/ryanluce72/south-town-swing
   394  cd south-town-swing/
   395  subl .
-  396  open CardGame2.html 
+  396  open CardGame2.html
   397  cd repos
   398  cd cd repos
   399  cd \repos
@@ -373,7 +377,7 @@
   416  git remote -v
   417  git remote add upstream https://github.com/lillyoi/target-profiles
   418  git remote -v
-  419  git fetch upstream 
+  419  git fetch upstream
   420  gst
   421  git status
   422  git stash
