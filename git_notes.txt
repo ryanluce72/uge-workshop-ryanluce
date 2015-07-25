@@ -7,3 +7,10 @@ git commit -commits (with message)
 git log -shows history of commits within git
 git show -specify a specific file hash and you can see specifics of file at that time point
 git branch -creates a branch off
+
+We created an SSH key so that we can use the command line to push to GitHub
+
+we then entered the following
+git remote add origin git@github.com:ryanluce72/uge-workshop-ryanluce.git
+
+this means when we refer to "origin", we are referring to the repo on github
