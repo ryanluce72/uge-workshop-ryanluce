@@ -1,0 +1,500 @@
+   44  rb pathtoenlightenment.rb
+   45  ruby pathtoenlightenment.rb
+   46  ruby path_to_enlightenment.rb
+   47  ruby path_to_enlightenment.rb
+   48  ruby path_to_enlightenment.rb
+   49  ruby path_to_enlightenment.rb
+   50  ruby path_to_enlightenment.rb
+   51  ruby path_to_enlightenment.rb
+   52  ruby path_to_enlightenment.rb
+   53  ruby path_to_enlightenment.rb
+   54  ruby path_to_enlightenment.rb
+   55  ruby path_to_enlightenment.rb
+   56  ruby path_to_enlightenment.rb
+   57  cd Desktop\koans
+   58  cd Desktop
+   59  cd koans
+   60  cd koans
+   61  ruby path_to_enlightenment.rb
+   62  ruby path_to_enlightenment.rb
+   63  ruby path_to_enlightenment.rb
+   64  ruby path_to_enlightenment.rb
+   65  ruby path_to_enlightenment.rb
+   66  ruby path_to_enlightenment.rb
+   67  ruby path_to_enlightenment.rb
+   68  ruby path_to_enlightenment.rb
+   69  ruby path_to_enlightenment.rb
+   70  ruby path_to_enlightenment.rb
+   71  ruby path_to_enlightenment.rb
+   72  ruby path_to_enlightenment.rb
+   73  ruby path_to_enlightenment.rb
+   74  ruby path_to_enlightenment.rb
+   75  ruby path_to_enlightenment.rb
+   76  ruby path_to_enlightenment.rb
+   77  ruby path_to_enlightenment.rb
+   78  ruby path_to_enlightenment.rb
+   79  ruby path_to_enlightenment.rb
+   80  ruby path_to_enlightenment.rb
+   81  ruby path_to_enlightenment.rb
+   82  ruby path_to_enlightenment.rb
+   83  ruby path_to_enlightenment.rb
+   84  ruby path_to_enlightenment.rb
+   85  ruby path_to_enlightenment.rb
+   86  ruby path_to_enlightenment.rb
+   87  ruby path_to_enlightenment.rb
+   88  ruby path_to_enlightenment.rb
+   89  ruby path_to_enlightenment.rb
+   90  ruby path_to_enlightenment.rb
+   91  ruby path_to_enlightenment.rb
+   92  ruby path_to_enlightenment.rb
+   93  ruby path_to_enlightenment.rb
+   94  ruby path_to_enlightenment.rb
+   95  ruby path_to_enlightenment.rb
+   96  ruby path_to_enlightenment.rb
+   97  ruby path_to_enlightenment.rb
+   98  ruby path_to_enlightenment.rb
+   99  ruby path_to_enlightenment.rb
+  100  ruby path_to_enlightenment.rb
+  101  ruby path_to_enlightenment.rb
+  102  ruby path_to_enlightenment.rb
+  103  ruby path_to_enlightenment.rb
+  104  ruby path_to_enlightenment.rb
+  105  ruby path_to_enlightenment.rb
+  106  ruby path_to_enlightenment.rb
+  107  ruby path_to_enlightenment.rb
+  108  ruby path_to_enlightenment.rb
+  109  cd Desktop
+  110  cd koans
+  111  ruby path_to_enlightenment.rb
+  112  ruby path_to_enlightenment.rb
+  113  ruby path_to_enlightenment.rb
+  114  ruby path_to_enlightenment.rb
+  115  ruby path_to_enlightenment.rb
+  116  ruby path_to_enlightenment.rb
+  117  ruby path_to_enlightenment.rb
+  118  ruby path_to_enlightenment.rb
+  119  ruby path_to_enlightenment.rb
+  120  ruby path_to_enlightenment.rb
+  121  ruby path_to_enlightenment.rb
+  122  ruby path_to_enlightenment.rb
+  123  ruby path_to_enlightenment.rb
+  124  ruby path_to_enlightenment.rb
+  125  ruby path_to_enlightenment.rb
+  126  ruby path_to_enlightenment.rb
+  127  ruby path_to_enlightenment.rb
+  128  ruby path_to_enlightenment.rb
+  129  ruby path_to_enlightenment.rb
+  130  ruby path_to_enlightenment.rb
+  131  ruby path_to_enlightenment.rb
+  132  ruby path_to_enlightenment.rb
+  133  ruby path_to_enlightenment.rb
+  134  ruby path_to_enlightenment.rb
+  135  ruby path_to_enlightenment.rb
+  136  ruby path_to_enlightenment.rb
+  137  ruby path_to_enlightenment.rb
+  138  ruby path_to_enlightenment.rb
+  139  ruby path_to_enlightenment.rb
+  140  ruby path_to_enlightenment.rb
+  141  ruby path_to_enlightenment.rb
+  142  ruby path_to_enlightenment.rb
+  143  ruby path_to_enlightenment.rb
+  144  cd Desktop
+  145  cd koans
+  146  ruby path_to_enlightenment.rb
+  147  ruby path_to_enlightenment.rb
+  148  ruby path_to_enlightenment.rb
+  149  ruby path_to_enlightenment.rb
+  150  ruby path_to_enlightenment.rb
+  151  ruby path_to_enlightenment.rb
+  152  ruby path_to_enlightenment.rb
+  153  ruby path_to_enlightenment.rb
+  154  ruby path_to_enlightenment.rb
+  155  ruby path_to_enlightenment.rb
+  156  ruby path_to_enlightenment.rb
+  157  ruby path_to_enlightenment.rb
+  158  ruby path_to_enlightenment.rb
+  159  ruby path_to_enlightenment.rb
+  160  ruby path_to_enlightenment.rb
+  161  ruby path_to_enlightenment.rb
+  162  ruby path_to_enlightenment.rb
+  163  ruby path_to_enlightenment.rb
+  164  ruby path_to_enlightenment.rb
+  165  ruby path_to_enlightenment.rb
+  166  ruby path_to_enlightenment.rb
+  167  ruby path_to_enlightenment.rb
+  168  ruby path_to_enlightenment.rb
+  169  ruby path_to_enlightenment.rb
+  170  ruby path_to_enlightenment.rb
+  171  ruby path_to_enlightenment.rb
+  172  ruby path_to_enlightenment.rb
+  173  cd Desktop
+  174  cd koans
+  175  ruby path_to_enlightenment.rb
+  176  ruby path_to_enlightenment.rb
+  177  ruby path_to_enlightenment.rb
+  178  ruby path_to_enlightenment.rb
+  179  ruby path_to_enlightenment.rb
+  180  ruby path_to_enlightenment.rb
+  181  ruby path_to_enlightenment.rb
+  182  ruby path_to_enlightenment.rb
+  183  ruby path_to_enlightenment.rb
+  184  ruby path_to_enlightenment.rb
+  185  ruby path_to_enlightenment.rb
+  186  ruby path_to_enlightenment.rb
+  187  ruby path_to_enlightenment.rb
+  188  ruby path_to_enlightenment.rb
+  189  ruby path_to_enlightenment.rb
+  190  ruby path_to_enlightenment.rb
+  191  ruby path_to_enlightenment.rb
+  192  ruby path_to_enlightenment.rb
+  193  ruby path_to_enlightenment.rb
+  194  ruby triangle.rb
+  195  ruby triangle.rb
+  196  ruby triangle.rb
+  197  ruby triangle.rb
+  198  ruby triangle.rb
+  199  ruby path_to_enlightenment.rb
+  200  ruby path_to_enlightenment.rb
+  201  ruby path_to_enlightenment.rb
+  202  ruby path_to_enlightenment.rb
+  203  ruby path_to_enlightenment.rb
+  204  ruby path_to_enlightenment.rb
+  205  ruby path_to_enlightenment.rb
+  206  ruby path_to_enlightenment.rb
+  207  ruby path_to_enlightenment.rb
+  208  ruby path_to_enlightenment.rb
+  209  ruby path_to_enlightenment.rb
+  210  ruby path_to_enlightenment.rb
+  211  ruby path_to_enlightenment.rb
+  212  ruby path_to_enlightenment.rb
+  213  ruby path_to_enlightenment.rb
+  214  ruby path_to_enlightenment.rb
+  215  ruby path_to_enlightenment.rb
+  216  ruby path_to_enlightenment.rb
+  217  ruby path_to_enlightenment.rb
+  218  cd Programs
+  219  cd programs
+  220  cd desktop
+  221  cd Desktop
+  222  cd
+  223  cd Desktop
+  224  cd Programs
+  225  ruby multiples_3_5.rb
+  226  ruby multiples_3_5.rb
+  227  ruby multiples_3_5.rb
+  228  ruby multiples_3_5.rb
+  229  ruby multiples_3_5.rb
+  230  ruby multiples_3_5.rb
+  231  ruby multiples_3_5.rb
+  232  ruby multiples_3_5.rb
+  233  1000
+  234  1000
+  235  ruby multiples_3_5.rb
+  236  ruby fibonacci_evens.rb
+  237  ruby fibonacci_evens.rb
+  238  12
+  239  12
+  240  ruby fibonacci_evens.rb
+  241  ruby fibonacci_evens.rb
+  242  ruby fibonacci_evens.rb
+  243  ruby fibonacci_evens.rb
+  244  ruby fibonacci_evens.rb
+  245  ruby fibonacci_evens.rb
+  246  ruby fibonacci_evens.rb
+  247  4000
+  248  4000
+  249  ruby fibonacci_evens.rb
+  250  ruby fibonacci_evens.rb
+  251  ruby palindrome_prime.rb
+  252  ruby palindrome_prime.rb
+  253  ruby palindrome_prime.rb
+  254  ruby sumsquare.rb
+  255  ruby primes.rb
+  256  ruby primes.rb
+  257  ruby primes.rb
+  258  ruby primes.rb
+  259  ruby primes.rb
+  260  ruby primes.rb
+  261  ruby primes.rb
+  262  ruby primes.rb
+  263  ruby primes.rb
+  264  ruby -v
+  265  ruby primes.rb
+  266  ruby ~v
+  267  ruby v
+  268  v~ ruby
+  269  ruby
+  270  ruby-v
+  271  ruby -v
+  272  cd Desktop
+  273  ruby -v
+  274  cd Desktop
+  275  cd Social Health/WellB2b
+  276  cd Social Health
+  277  which rails
+  278  rails -v
+  279  cd Social\ Health/
+  280  ls
+  281  cd WellB2B/
+  282  rake db:migrate
+  283  bundle install
+  284  echo hello
+  285  ruby -v
+  286  cd Desktop
+  287  cd Programs
+  288  cd
+  289  cd Desktop/Programs
+  290  ruby calc.rb
+  291  ruby awesome.rb
+  292  ruby awesome.rb
+  293  ruby awesome.rb
+  294  ruby awesome.rb
+  295  cd desktop
+  296  cd Code Fellows Programs
+  297  cd CFP
+  298  js hello.html
+  299  js
+  300  cd dfp
+  301  cd cfp
+  302  cd CFP
+  303  cd Desktop
+  304  cd CFP
+  305  cat guess5.html
+  306  open guess5.html
+  307  git config --list
+  308  git config --global user.name "Ryan Luce"
+  309  pwd
+  310  ls
+  311  ls -l
+  312  ls /etc
+  313  ls -l / etc
+  314  pwd
+  315  ls documents
+  316  ls /documents
+  317  ls ~/Documents
+  318  ls./Documents
+  319  ls ./Documents
+  320  ls /
+  321  ls ../../
+  322  cd
+  323  cd CFP
+  324  cd Desktop
+  325  cd CFP
+  326  cd
+  327  cd Desktop / Corengi Private
+  328  cd Corengi Private
+  329  cd Deskto
+  330  cd Desktop
+  331  cd 'Corengi Private'
+  332  cd Dropbox
+  333  man -ls
+  334  man -pwd
+  335  man -cd
+  336  cd Desktop
+  337  cd
+  338  cd Desktop
+  339  mkdir linuxtutorial
+  340  ls
+  341  ls
+  342  git config -- global user.name "ryanluce72"
+  343  git config -- global user.name "ryanluce72"
+  344  git config --global user.name "ryanluce72
+  345  git config --global user.name "ryanluce72"
+  346  exit
+  347  ls
+  348  git config --global user.name "ryanluce72"
+  349  git config --global user.email "ryanluce@gmail.com"
+  350  git credential-osxkeychain
+  351  sudo mv git-credential-osxkeychain   "$(dirname $(which git))/git-credential-osxkeychain"
+  352  cd local
+  353  cd /usr/local
+  354  ls
+  355  cd
+  356  ls
+  357  cd usr
+  358  cd /usr
+  359  ls
+  360  git credential-osxkeychain
+  361  git init
+  362  ls -la
+  363  cd Desktop
+  364  mkdir repos
+  365  cd repos
+  366  git init
+  367  ls -la
+  368  git status
+  369  man mv
+  370  cd Desktop\repos
+  371  cd Desktop/repos
+  372  ls -la
+  373  ls
+  374  cd Desktop\repos
+  375  cd Desktop
+  376  cd repos
+  377  git status
+  378  git status
+  379  git status
+  380  git add WarGameRyanLuce.html
+  381  git status
+  382  git commit -m "WarGame initial development"
+  383  touch README.md
+  384  git remote add origin https://github.com/ryanluce72/CFP.git
+  385  git status
+  386  git log
+  387  git push -u origin master
+  388  git push -u origin master
+  389  git status
+  390  git remote status
+  391  cd Desktop
+  392  cd repos
+  393  git clone https://github.com/ryanluce72/south-town-swing
+  394  cd south-town-swing/
+  395  subl .
+  396  open CardGame2.html 
+  397  cd repos
+  398  cd cd repos
+  399  cd \repos
+  400  cd repos
+  401  cd /
+  402  cd Desktop
+  403  cd repos
+  404  la
+  405  ls -al
+  406  cat .config/
+  407  ls .config/
+  408  subl /etc/paths
+  409  vim /etc/paths
+  410  sudo vim /etc/paths
+  411  cd Desktop/ryan-target-profiles/
+  412  gst
+  413  git st
+  414  git --version
+  415  git status
+  416  git remote -v
+  417  git remote add upstream https://github.com/lillyoi/target-profiles
+  418  git remote -v
+  419  git fetch upstream 
+  420  gst
+  421  git status
+  422  git stash
+  423  git status
+  424  git merge upstream/master
+  425  git status
+  426  git push origin
+  427  git stash pop
+  428  git diff
+  429  pwd
+  430  echo $PATH
+  431  la
+  432  ls -al
+  433  lein deps
+  434  echo $PATH
+  435  lein
+  436  ls ~/bin
+  437  lein.txt
+  438  chmod 755 ~/bin/lein
+  439  mv ~/bin/lein.txt ~/bin/lein
+  440  chmod 755 ~/bin/lein
+  441  lein
+  442  lein
+  443  lein
+  444  lein deps
+  445  cd ~/Desktop/ryan-target-profiles/
+  446  lein deps
+  447  lein midje :autotest
+  448  lein help
+  449  lein json-files
+  450  ls -al ~/.m2/repository/
+  451  touch ~/.lein/profiles.clj
+  452  tvim ~/.lein/profiles.clj
+  453  vim ~/.lein/profiles.clj
+  454  lein midje :autotest
+  455  lein midje :autotest
+  456  echo hello
+  457  ruby -v
+  458  cd Desktop
+  459  cd Grant
+  460  ruby calc.rb
+  461  ruby calc.rb
+  462  ruby calc.rb
+  463  ruby calc.rb
+  464  ruy calc.rb
+  465  ruby calc.rb
+  466  ruby calc.rb
+  467  ruby calc.rb
+  468  ruby calc.rb
+  469  ruby calc.rb
+  470  ruby calc.rb
+  471  ruby calc.rb
+  472  ruby calc.rb
+  473  ruby calc.rb
+  474  ruby calc.rb
+  475  ruby calc.rb
+  476  ruby calc.rb
+  477  ruby calc.rb
+  478  ruby calc.rb
+  479  ruby calc.rb
+  480  ruby calc.rb
+  481  ruby calc.rb
+  482  ruby calc.rb
+  483  ruby calc.rb
+  484  ruby calc.rb
+  485  ruby calc.rb
+  486  ruby str
+  487  ls -G
+  488  ruby -e "$(curl -fsSL https://raw.github.com/Homebrew/install/master/install)"
+  489  brew update
+  490  brew doctor
+  491  brew install fish
+  492  echo '/usr/local/bin/fish' | sudo tee -a /etc/shells
+  493  chsh -s /usr/local/bin/fish
+  494  pwd
+  495  ls
+  496  pqs
+  497  pwd
+  498  pwd
+  499  pwd
+  500  history
+  501  history
+  502  history 5
+  503  history 10
+  504  history 22
+  505  history 1
+  506  history 2
+  507  history 3
+  508  history 4
+  509  history 5
+  510  history 6
+  511  history | less
+  512  history | less
+  513  man less
+  514  clear
+  515  history
+  516  pwd
+  517  history > moving_around.txt
+  518  pwd
+  519  l
+  520  ls
+  521  cd Desktop
+  522  history > moving_around.txt
+  523  ls
+  524  cd ..
+  525  ls
+  526  cd moving_around.txt
+  527  open -help
+  528  man open
+  529  open moving_around.txt
+  530  ls
+  531  history >>  moving_around2.txt
+  532  ls
+  533  history
+  534  history > moving_around.txt
+  535  ls
+  536  man open
+  537  cd Desktop
+  538  history > moving_around.txt
+  539  history >> moving_around.txt
+  540  history > moving_around.txt
+  541  ls
+  542  ls > moving_around.txt
+  543  history > moving_around.txt
